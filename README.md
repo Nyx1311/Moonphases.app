@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  Moonphases.app 🌙
 
 # 🌙 Moonphases.app  
@@ -61,6 +61,5 @@ _Add images here once you push them (e.g., screenshots of the app interface, zod
 Install dependencies:  
 ```bash
 pip install streamlit beautifulsoup4
-=======
-"# Moonphases.app" 
->>>>>>> 51da03d (update)
+streamlit>=1.20.0
+beautifulsoup4>=4.12.0
